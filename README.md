@@ -1,5 +1,6 @@
 # Bookshelf-API-With-HAPI
-Instalasi
+
+# Instalasi
 
 Pastikan komputer anda sudah terinstall npm
 
@@ -7,7 +8,9 @@ Pastikan komputer anda sudah terinstall npm
     Buka folder project jika repository sudah selesai terdownload
     Buka terminal, lalu ikuti perintah di bawah
 
-  npm install
-  npm run dev
+  npm install @hapi/hapi 
+  npm install nanoid
+  npm install -g nodemon
+  npm run start
 
     Instalasi sudah berhasil, lalu klik url localhost yangg ada pada terminal

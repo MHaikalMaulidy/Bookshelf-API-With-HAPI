@@ -9,9 +9,7 @@ Buka folder project jika repository sudah selesai terdownload
 Buka terminal, lalu ikuti perintah di bawah
 
 ```bash
-  npm install @hapi/hapi 
-  npm install nanoid
-  npm install -g nodemon
+  npm install 
   npm run start
 ```
 
